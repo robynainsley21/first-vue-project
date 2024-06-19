@@ -1,0 +1,85 @@
+{
+  "resources": [
+    {
+      "jobTitle": ["Software Development Student"],
+      "about": ["Book worm", "Music lover"],
+      "education": [
+        {
+          "edu_name": "Helderkruin Primary",
+          "date": 2013,
+          "details": ["Prefect", "Top 3 Best Achievers"]
+        },
+        {
+          "edu_name": "Tuscany Glen Secondary High",
+          "date": 2014,
+          "details": ["Deputy Head Girl", "Second-best Achiever"]
+        },
+        {
+          "edu_name": "Life Choices Academy",
+          "date": "Present"
+        }
+      ],
+      "experiences": ["Sales Assistant"],
+      "skills": ["HTML", "CSS", "JavaScript", "React.js", "Vue.js"],
+      "testimonials": [
+        {
+          "student_name": "",
+          "title": "",
+          "testimonial": ""
+        },
+        {
+          "student_name": "",
+          "title": "",
+          "testimonial": ""
+        },
+        {
+          "student_name": "",
+          "title": "",
+          "testimonial": ""
+        },
+        {
+          "student_name": "",
+          "title": "",
+          "testimonial": ""
+        },
+        {
+          "student_name": "",
+          "title": "",
+          "testimonial": ""
+        }
+      ],
+      "projects": [
+        {
+          "img_url": "",
+          "projectName": "",
+          "github": "",
+          "hosted_link": ""
+        },
+        {
+          "img_url": "",
+          "projectName": "",
+          "github": "",
+          "hosted_link": ""
+        },
+        {
+          "img_url": "",
+          "projectName": "",
+          "github": "",
+          "hosted_link": ""
+        },
+        {
+          "img_url": "",
+          "projectName": "",
+          "github": "",
+          "hosted_link": ""
+        },
+        {
+          "img_url": "",
+          "projectName": "",
+          "github": "",
+          "hosted_link": ""
+        }
+      ]
+    }
+  ]
+}
