@@ -1,85 +1,107 @@
 {
-  "resources": [
+  "jobTitle": ["Software Development", "Student"],
+  "about": ["I am an open-minded and creative person, and enjoy learning about the world of technology, the interest for which had stemmed from curiosity of the new world.",
+        "In my free time, I enjoy reading books on self-improvement and understanding how entrepreneurs think.",
+        "Being organized and observant are skills of mine, combined with the ability to adapt to my environment."],
+  "education": [
     {
-      "jobTitle": ["Software Development Student"],
-      "about": ["Book worm", "Music lover"],
-      "education": [
-        {
-          "edu_name": "Helderkruin Primary",
-          "date": 2013,
-          "details": ["Prefect", "Top 3 Best Achievers"]
-        },
-        {
-          "edu_name": "Tuscany Glen Secondary High",
-          "date": 2014,
-          "details": ["Deputy Head Girl", "Second-best Achiever"]
-        },
-        {
-          "edu_name": "Life Choices Academy",
-          "date": "Present"
-        }
-      ],
-      "experiences": ["Sales Assistant"],
-      "skills": ["HTML", "CSS", "JavaScript", "React.js", "Vue.js"],
-      "testimonials": [
-        {
-          "student_name": "",
-          "title": "",
-          "testimonial": ""
-        },
-        {
-          "student_name": "",
-          "title": "",
-          "testimonial": ""
-        },
-        {
-          "student_name": "",
-          "title": "",
-          "testimonial": ""
-        },
-        {
-          "student_name": "",
-          "title": "",
-          "testimonial": ""
-        },
-        {
-          "student_name": "",
-          "title": "",
-          "testimonial": ""
-        }
-      ],
-      "projects": [
-        {
-          "img_url": "",
-          "projectName": "",
-          "github": "",
-          "hosted_link": ""
-        },
-        {
-          "img_url": "",
-          "projectName": "",
-          "github": "",
-          "hosted_link": ""
-        },
-        {
-          "img_url": "",
-          "projectName": "",
-          "github": "",
-          "hosted_link": ""
-        },
-        {
-          "img_url": "",
-          "projectName": "",
-          "github": "",
-          "hosted_link": ""
-        },
-        {
-          "img_url": "",
-          "projectName": "",
-          "github": "",
-          "hosted_link": ""
-        }
-      ]
+      "edu_name": "Helderkruin Primary",
+      "date": 2013,
+      "details": ["Prefect", "Top 3 Best Achievers"]
+    },
+    {
+      "edu_name": "Tuscany Glen Secondary High",
+      "date": 2014,
+      "details": ["Deputy Head Girl", "Second-best Achiever"]
+    },
+    {
+      "edu_name": "Life Choices Academy",
+      "date": "Present"
+    }
+  ],
+  "experiences": ["Sales Assistant"],
+  "skills": ["HTML", "CSS", "JavaScript", "React.js", "Vue.js"],
+  "testimonials": [
+    {
+      "student_name": "",
+      "title": "",
+      "testimonial": "",
+      "image": ""
+    },
+    {
+      "student_name": "",
+      "title": "",
+      "testimonial": "",
+      "image": ""
+    },
+    {
+      "student_name": "",
+      "title": "",
+      "testimonial": "",
+      "image": ""
+    },
+    {
+      "student_name": "",
+      "title": "",
+      "testimonial": "",
+      "image": ""
+    },
+    {
+      "student_name": "",
+      "title": "",
+      "testimonial": "",
+      "image": ""
+    }
+  ],
+  "projects": [
+    {
+      "id": 1,
+      "project-name": "",
+      "img_url": "",
+      "projectName": "",
+      "github": "",
+      "hosted_link": ""
+    },
+    {
+      "id": 2,
+      "project-name": "",
+      "img_url": "",
+      "projectName": "",
+      "github": "",
+      "hosted_link": ""
+    },
+    {
+      "id": 3,
+      "project-name": "",
+      "img_url": "",
+      "projectName": "",
+      "github": "",
+      "hosted_link": ""
+    },
+    {
+      "id": 4,
+      "project-name": "",
+      "img_url": "",
+      "projectName": "",
+      "github": "",
+      "hosted_link": ""
+    },
+    {
+      "id": 5,
+      "project-name": "",
+      "img_url": "",
+      "projectName": "",
+      "github": "",
+      "hosted_link": ""
+    },
+    {
+      "id": 6,
+      "project-name": "beaute Ecommerce",
+      "img_url": "",
+      "projectName": "",
+      "github": "",
+      "hosted_link": ""
     }
   ]
+
 }
