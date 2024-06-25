@@ -1,105 +1,143 @@
 {
-  "jobTitle": [{"title": "Software Development Student"}],
-  "about": [{"data": "I am an open-minded and creative person, and enjoy learning about the world of technology, the interest for which had stemmed from curiosity of the new world. In my free time, I enjoy reading books on self-improvement and understanding how entrepreneurs think.Being organized and observant are skills of mine, combined with the ability to adapt to my environment."}],
+  "jobTitle": ["Software Development Student"],
+  "about": [
+    "I am an open-minded and creative person, and enjoy learning about the world of technology, the interest for which had stemmed from curiosity of the new world. In my free time, I enjoy reading books on self-improvement and understanding how entrepreneurs think. Being organized and observant are skills of mine, combined with the ability to adapt to my environment."
+  ],
   "education": [
     {
-      "edu_name": "Helderkruin Primary",
-      "date": 2013,
-      "details": ["Prefect", "Top 3 Best Achievers"]
-    },
-    {
       "edu_name": "Tuscany Glen Secondary High",
-      "date": 2014,
-      "details": ["Deputy Head Girl", "Second-best Achiever"]
+      "date": "2014 - 2018",
+      "details": ["Deputy Head Girl", "Second-best Achiever"],
+      "site": "https://www.facebook.com/tuscanyglenhighschool/",
+      "img_url": "https://robynainsley21.github.io/images/personal-portfolio/tuscany-secondary.jpg"
+    }
+    ,
+    {
+      "edu_name": "University of the Western Cape",
+      "date": "2019 - 2021",
+      "details": ["Bachelor of Administration(BAdmin) Incomplete"],
+      "site": "https://www.uwc.ac.za/",
+      "img_url": "https://robynainsley21.github.io/images/personal-portfolio/uwc-img.jpg"
     },
     {
       "edu_name": "Life Choices Academy",
-      "date": "Present"
+      "date": "April 2024 - Present",
+      "details": ["Software Developer"],
+      "site": "https://lifechoices.co.za/life-choices-academy/",
+      "img_url": "https://robynainsley21.github.io/images/personal-portfolio/life-choices.jpg"
     }
   ],
-  "experiences": [{"data":"Sales Assistant"}],
-  "skills": [{"data":[ "HTML", "CSS", "JavaScript", "React.js", "Vue.js"]}],
+  "experiences": [
+    {
+      "title": "Sales Assistant",
+      "company": "Poppies Home Bakes",
+      "duration": "August 2022 - April 2023",
+      "img_url": "https://robynainsley21.github.io/images/personal-portfolio/poppies-img.jpg",
+      "site": "https://www.facebook.com/PoppiesLangverwacht/"
+    }
+  ],
+  "skills": [
+    {
+      "skill": "HTML",
+      "description": ""
+    },
+    {
+      "skill": "CSS",
+      "description": ""
+    },
+    {
+      "skill": "JavaScript",
+      "description": ""
+    },
+    {
+      "skill": "ReactJS",
+      "description": ""
+    },
+    {
+      "skill": "VueJS",
+      "description": ""
+    }
+  ],
   "testimonials": [
     {
-      "student_name": "",
-      "title": "",
-      "testimonial": "",
-      "image": ""
+      "name": "Nicki Abels",
+      "title": "Colleague",
+      "testimonial": "Robyn is an extremely dedicated creative and dedicated worker. Her attention to detail is phenomenal. She remains willing to learn new skills and gain more knowledge. Robyn is very approachable and always goes the extra mile in all she does.",
+      "img_url": "https://robynainsley21.github.io/images/personal-portfolio/nicki-img.jpg"
     },
     {
-      "student_name": "",
-      "title": "",
-      "testimonial": "",
-      "image": ""
+      "name": "Imaraan Sheldon",
+      "title": "Colleague",
+      "testimonial": "Working alongside Robyn Carnow has been an absolute pleasure. Her intelligence, diligence, and unwavering always ready to step up and contribute whenever needed. Her ability to tackle challenges with precision speaks volumes about her character and work ethic. What sets Robyn apart is not only her remarkable competence but also her integrity. She is someone you can rely on without hesitation, knowing that the task will be efficiently and with the utmost dedication. In all aspects, Robyn embodies trustworthiness and reliability, making her an invaluable asset to any team fortunate enough to have her.",
+      "img_url": "https://robynainsley21.github.io/images/personal-portfolio/imaraan-img.jpg"
     },
     {
-      "student_name": "",
-      "title": "",
-      "testimonial": "",
-      "image": ""
+      "name": "Anushqa Kandan",
+      "title": "Colleague",
+      "testimonial": "Robyn embodies a great mix of creativity intellegence and critical thinking. She is extremely committed to any task given and tends to go the extra mile when necessary. Robyn's coding skills transcends boundaries and constantly leave those around her amazed. She's an amazing team  player and works well under pressure. Aside from this, what makes her a great candidate is her humbled nature and willingness to help others.",
+      "img_url": "https://robynainsley21.github.io/images/personal-portfolio/anushqaImage-small.jpg"
     },
     {
-      "student_name": "",
-      "title": "",
-      "testimonial": "",
-      "image": ""
+      "name": "Jadee Paulse",
+      "title": "Peer",
+      "testimonial": "Working with Robyn has been an absolute delight. Her passion for coding always shines through in every project she takes on. Robyn's dedication and drive to solve any problem that comes her way never cease to amaze me.",
+      "img_url": "https://robynainsley21.github.io/images/personal-portfolio/jadee-img.jpg"
     },
     {
-      "student_name": "",
-      "title": "",
-      "testimonial": "",
-      "image": ""
+      "name": "Joel Mukanya",
+      "title": "Lecturer",
+      "testimonial": "Robyn is a highly creative, well-behaved, and dedicated individual who thrives on collaborating with her peers and excels at working on project assignments. She has acquired various skills and tools, including HTML5, CSS3, Bootstrap, VS Code, and wireframe. I am pleased to introduce her as an exceptional candidate and developer.",
+      "img_url": "https://robynainsley21.github.io/images/personal-portfolio/joel-img.jpg"
     }
   ],
   "projects": [
     {
       "id": 1,
-      "project-name": "",
-      "img_url": "",
-      "projectName": "",
-      "github": "",
-      "hosted_link": ""
+      "img_url": "https://robynainsley21.github.io/images/personal-portfolio/keyboard-img.png",
+      "description": "A basic keyboard layout with a retro color palette built with Flexbox.",
+      "projectName": "Keyboard",
+      "github": "https://github.com/robynainsley21/keyboard.git",
+      "hosted_link": "https://keyboard-blue.vercel.app/"
     },
     {
       "id": 2,
-      "project-name": "",
-      "img_url": "",
-      "projectName": "",
+      "img_url": "https://robynainsley21.github.io/images/personal-portfolio/calculator-img.png",
+      "description": "",
+      "projectName": "Calculator",
       "github": "",
       "hosted_link": ""
     },
     {
       "id": 3,
-      "project-name": "",
-      "img_url": "",
+      "img_url": "https://robynainsley21.github.io/images/",
+      "description": "",
       "projectName": "",
       "github": "",
       "hosted_link": ""
     },
     {
       "id": 4,
-      "project-name": "",
-      "img_url": "",
+      "img_url": "https://robynainsley21.github.io/images/",
+      "description": "",
       "projectName": "",
       "github": "",
       "hosted_link": ""
     },
     {
       "id": 5,
-      "project-name": "",
-      "img_url": "",
+      "img_url": "https://robynainsley21.github.io/images/",
+      "description": "",
       "projectName": "",
       "github": "",
       "hosted_link": ""
     },
     {
       "id": 6,
-      "project-name": "beaute Ecommerce",
-      "img_url": "",
-      "projectName": "",
+      "img_url": "https://robynainsley21.github.io/images/",
+      "description": "",
+      "projectName": "beaute Ecommerce",
       "github": "",
       "hosted_link": ""
     }
   ]
-
 }
