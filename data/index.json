@@ -45,24 +45,34 @@
   ],
   "skills": [
     {
+      "id": 1 ,
       "skill": "HTML",
-      "description": ""
+      "description": "",
+      "img_url": ""
     },
     {
+      "id": 2 ,
       "skill": "CSS",
-      "description": ""
+      "description": "",
+      "img_url": ""
     },
     {
+      "id": 3 ,
       "skill": "JavaScript",
-      "description": ""
+      "description": "",
+      "img_url": ""
     },
     {
+      "id": 4 ,
       "skill": "ReactJS",
-      "description": ""
+      "description": "",
+      "img_url": ""
     },
     {
+      "id": 5 ,
       "skill": "VueJS",
-      "description": ""
+      "description": "",
+      "img_url": ""
     }
   ],
   "testimonials": [
