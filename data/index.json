@@ -48,31 +48,31 @@
       "id": 1 ,
       "skill": "HTML",
       "description": "",
-      "img_url": ""
+      "img_url": "https://robynainsley21.github.io/images/images/html.png"
     },
     {
       "id": 2 ,
       "skill": "CSS",
       "description": "",
-      "img_url": ""
+      "img_url": "https://robynainsley21.github.io/images/images/css.png"
     },
     {
       "id": 3 ,
       "skill": "JavaScript",
       "description": "",
-      "img_url": ""
+      "img_url": "https://robynainsley21.github.io/images/images/javascript.png"
     },
     {
       "id": 4 ,
       "skill": "ReactJS",
       "description": "",
-      "img_url": ""
+      "img_url": "https://robynainsley21.github.io/images/images/React-icon.svg.png"
     },
     {
       "id": 5 ,
       "skill": "VueJS",
       "description": "",
-      "img_url": ""
+      "img_url": "https://robynainsley21.github.io/images/images/Vue.js_Logo_2.svg.png"
     }
   ],
   "testimonials": [
