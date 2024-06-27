@@ -8,7 +8,6 @@
   ],
   "education": [
     {
-      
       "id": 1,
       "edu_name": "Tuscany Glen Secondary High",
       "date": "2014 - 2018",
@@ -45,33 +44,33 @@
   ],
   "skills": [
     {
-      "id": 1 ,
+      "id": 1,
       "skill": "HTML",
-      "description": "",
+      "description": "My first language, HTML introduced me to the world of web development and gave me an idea of how far my skills could go. It provided me with a solid foundation in understanding how websites are structured and designed. This initial exposure further sparked my curiosity and motivated me to learn more complex languages.",
       "img_url": "https://robynainsley21.github.io/images/images/png-clipart-web-developmenthtml-responsive-we-removebg-preview.png"
     },
     {
-      "id": 2 ,
+      "id": 2,
       "skill": "CSS",
-      "description": "",
+      "description": "Delving deeper into the world of programming, I was allowed to show my creative side with this language, giving life to my projects and making them visually appealing. The process of transforming simple text into vibrant, interactive web pages was incredibly rewarding. Additionally, learning CSS expanded my abilities significantly, teaching me how to enhance the aesthetics of my websites and ensure they were displayed beautifully on viewports of all sizes. With CSS, I learned the art of layout design, color theory, and responsive design principles, allowing me to create user-friendly and visually engaging experiences. This combination of HTML and CSS not only honed my technical skills but also nurtured my creativity, enabling me to build dynamic and adaptable web pages that could cater to diverse user needs and devices.",
       "img_url": "https://robynainsley21.github.io/images/images/css.png"
     },
     {
-      "id": 3 ,
+      "id": 3,
       "skill": "JavaScript",
-      "description": "",
+      "description": "JavaScript had opened up new possibilities for adding interactivity and functionality to my web projects. I was able to go beyond static designs and create dynamic, responsive experiences that reacted to user input and events. I have mastered the fundamentals of manipulating the DOM, handling events, and validating user input. JavaScript's versatility and power greatly expanded my skill set, giving me the tools to create robust, dynamic web experiences that could adapt to users' needs and deliver seamless performance across different devices and platforms.",
       "img_url": "https://robynainsley21.github.io/images/images/javascript-logo-number-angularjs-node-javascript-transparent-background-removebg-preview.png"
     },
     {
-      "id": 4 ,
-      "skill": "ReactJS",
-      "description": "",
+      "id": 4,
+      "skill": "React.js",
+      "description": "React.js was a game-changer in my development journey as my first framework. Creating interfaces not only became easier thanks to its component-based architecture, but allowed me to build more modular, efficient, and maintainable code. React's virtual DOM and declarative approach made it easier to develop interactive UIs that responded quickly to user interactions. React.js empowered me to push the boundaries of what I could achieve, delivering high-quality, interactive web experiences that delighted users and showcased my skills as a developer.",
       "img_url": "https://robynainsley21.github.io/images/images/React-icon.svg.png"
     },
     {
-      "id": 5 ,
-      "skill": "VueJS",
-      "description": "",
+      "id": 5,
+      "skill": "Vue.js",
+      "description": "As a beginner, this framework has been a transformative experience. Its simple and intuitive design, concepts including data binding and components, allowed me to grasp the essentials of modern JavaScript frameworks. The reactivity system in Vue, along with its powerful state management through Vuex, enabled me to handle complex data interactions smoothly and efficiently.",
       "img_url": "https://robynainsley21.github.io/images/images/Vue.js_Logo_2.svg.png"
     }
   ],
