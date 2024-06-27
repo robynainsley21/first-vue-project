@@ -64,7 +64,7 @@
     {
       "id": 4,
       "skill": "React.js",
-      "description": "React.js was a game-changer in my development journey as my first framework. Creating interfaces not only became easier thanks to its component-based architecture, but allowed me to build more modular, efficient, and maintainable code. React's virtual DOM and declarative approach made it easier to develop interactive UIs that responded quickly to user interactions. React.js empowered me to push the boundaries of what I could achieve, delivering high-quality, interactive web experiences.",
+      "description": "React.js was a game-changer in my development journey as my first framework. Creating interfaces not only became easier thanks to its component-based architecture, but allowed me to build more modular, efficient, and maintainable code. React's virtual DOM and declarative approach made it easier to develop interactive UIs that responded quickly to user interactions.",
       "img_url": "https://robynainsley21.github.io/images/images/React-icon.svg.png"
     },
     {
