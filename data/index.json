@@ -38,8 +38,7 @@
       "title": "Sales Assistant",
       "company": "Poppies Home Bakes",
       "duration": "August 2022 - April 2023",
-      "img_url": "https://robynainsley21.github.io/images/personal-portfolio/poppies-img.jpg",
-      "site": "https://www.facebook.com/PoppiesLangverwacht/"
+      "img_url": "https://robynainsley21.github.io/images/"
     }
   ],
   "skills": [
@@ -118,42 +117,50 @@
     {
       "id": 2,
       "img_url": "https://robynainsley21.github.io/images/personal-portfolio/calculator-img.png",
-      "description": "",
+      "description": "A functioning calculator that calculates with the use of all operators.",
       "projectName": "Calculator",
-      "github": "",
-      "hosted_link": ""
+      "github": "https://github.com/robynainsley21/calculator.git",
+      "hosted_link": "https://calculator-ebon-five.vercel.app/"
     },
     {
       "id": 3,
-      "img_url": "https://robynainsley21.github.io/images/",
-      "description": "",
-      "projectName": "",
-      "github": "",
-      "hosted_link": ""
+      "img_url": "https://robynainsley21.github.io/images/vue-portfolio-images/hulu-img.png",
+      "description": "A visual imitation of the original Hulu website.",
+      "projectName": "Hulu Duplicate",
+      "github": "https://github.com/robynainsley21/huluApp.git",
+      "hosted_link": "https://hulu-app-livid.vercel.app/"
     },
     {
       "id": 4,
-      "img_url": "https://robynainsley21.github.io/images/",
-      "description": "",
-      "projectName": "",
-      "github": "",
-      "hosted_link": ""
+      "img_url": "https://robynainsley21.github.io/images/vue-portfolio-images/podify.png",
+      "description": "A podcast application built with React + Vite, displaying shows from an API and making use of a sample audio.",
+      "projectName": "Podify Podcast App",
+      "github": "https://github.com/robynainsley21/PodcastApp.git",
+      "hosted_link": "https://podcast-app-cyan.vercel.app/"
     },
     {
       "id": 5,
-      "img_url": "https://robynainsley21.github.io/images/",
-      "description": "",
-      "projectName": "",
-      "github": "",
-      "hosted_link": ""
+      "img_url": "https://robynainsley21.github.io/images/vue-portfolio-images/book-connect.png",
+      "description": "This website displays a range of books through which users may search a title or author. Books can be clicked to view more information.",
+      "projectName": "Book Connect",
+      "github": "https://github.com/robynainsley21/book-connect-react.git",
+      "hosted_link": "https://book-connect-react.vercel.app/"
     },
     {
       "id": 6,
-      "img_url": "https://robynainsley21.github.io/images/",
-      "description": "",
+      "img_url": "https://robynainsley21.github.io/images/vue-portfolio-images/ecommerce.png",
+      "description": "One of my biggest JavaScript projects, this e-commerce website includes search function of a product, adding and removing it from a shopping cart, and removing the product's existence as an administrator.",
       "projectName": "beaute Ecommerce",
-      "github": "",
-      "hosted_link": ""
+      "github": "https://github.com/robynainsley21/ecommerce-final.git",
+      "hosted_link": "https://ecommerce-final-ten.vercel.app/"
+    },
+    {
+      "id": 7,
+      "img_url": "https://robynainsley21.github.io/images/personal-portfolio/church-img.png",
+      "description": "Built with React + Vite, this website has a basic design with replaceable text.",
+      "projectName": "Church Website",
+      "github": "https://github.com/robynainsley21/church-project.git",
+      "hosted_link": "https://church-project-chi.vercel.app/"
     }
   ]
 }
