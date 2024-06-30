@@ -8,7 +8,8 @@
   "about": [
     {
       "img_url": "",
-      "text": "I am an open-minded and creative person, and enjoy learning about the world of technology, the interest for which had stemmed from curiosity of the new world. In my free time, I enjoy reading books on self-improvement and understanding how entrepreneurs think. Being organized and observant are skills of mine, combined with the ability to adapt to my environment."
+      "text1": "I am an open-minded and creative person, and enjoy learning about the world of technology, the interest for which had stemmed from curiosity of the new world. In my free time, I enjoy reading books on self-improvement and understanding how entrepreneurs think. Being organized and observant are skills of mine, combined with the ability to adapt to my environment.",
+      "text2": "Throughout my programming learning journey, I have become well-acquainted with HTML5, CSS3 JavaScript, React,js and Vue.js. I am always eager to expand my knowledge and stay updated with the latest advancements in these technologies, ensuring continuous growth and improvement in my skills."
     }
   ],
   "education": [
@@ -21,16 +22,6 @@
       ],
       "site": "https://www.facebook.com/tuscanyglenhighschool/",
       "img_url": "https://robynainsley21.github.io/images/personal-portfolio/tuscany-secondary.jpg"
-    },
-    {
-      "id": 2,
-      "edu_name": "University of the Western Cape",
-      "date": "2019 - 2021",
-      "details": [
-        "Bachelor of Administration(BAdmin) Incomplete"
-      ],
-      "site": "https://www.uwc.ac.za/",
-      "img_url": "https://robynainsley21.github.io/images/personal-portfolio/uwc-img.jpg"
     },
     {
       "id": 3,
@@ -49,7 +40,7 @@
       "title": "Sales Assistant",
       "company": "Poppies Home Bakes",
       "duration": "August 2022 - April 2023",
-      "img_url": "https://robynainsley21.github.io/images/"
+      "img_url": "https://robynainsley21.github.io/images/personal-portfolio/poppies-img.jpg"
     }
   ],
   "skills": [
