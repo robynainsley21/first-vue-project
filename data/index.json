@@ -1,5 +1,10 @@
 {
-  "jobTitle": [{ "title": "Software Development Student" }],
+  "jobTitle": [
+    {
+      "img_url": "https://robynainsley21.github.io/images/images/headshot.JPG",
+      "title": "Software Development Student"
+    }
+  ],
   "about": [
     {
       "img_url": "",
@@ -11,7 +16,9 @@
       "id": 1,
       "edu_name": "Tuscany Glen Secondary High",
       "date": "2014 - 2018",
-      "details": ["Deputy Head Girl, Second-best Achiever"],
+      "details": [
+        "Deputy Head Girl, Second-best Achiever"
+      ],
       "site": "https://www.facebook.com/tuscanyglenhighschool/",
       "img_url": "https://robynainsley21.github.io/images/personal-portfolio/tuscany-secondary.jpg"
     },
@@ -19,7 +26,9 @@
       "id": 2,
       "edu_name": "University of the Western Cape",
       "date": "2019 - 2021",
-      "details": ["Bachelor of Administration(BAdmin) Incomplete"],
+      "details": [
+        "Bachelor of Administration(BAdmin) Incomplete"
+      ],
       "site": "https://www.uwc.ac.za/",
       "img_url": "https://robynainsley21.github.io/images/personal-portfolio/uwc-img.jpg"
     },
@@ -27,7 +36,9 @@
       "id": 3,
       "edu_name": "Life Choices Academy",
       "date": "April 2024 - Present",
-      "details": ["Software Developer"],
+      "details": [
+        "Software Developer"
+      ],
       "site": "https://lifechoices.co.za/life-choices-academy/",
       "img_url": "https://robynainsley21.github.io/images/personal-portfolio/life-choices.jpg"
     }
