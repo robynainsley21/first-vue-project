@@ -164,5 +164,12 @@
       "github": "https://github.com/robynainsley21/church-project.git",
       "hosted_link": "https://church-project-chi.vercel.app/"
     }
+  ],
+  "contact":[
+    {
+      "number": "071 555 3954",
+      "github": "https://github.com/robynainsley21",
+      "linkedin": "https://www.linkedin.com/in/robyn-carnow-2b0762267/"
+    }
   ]
 }
