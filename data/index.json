@@ -76,6 +76,24 @@
       "skill": "Vue.js",
       "description": "As a beginner, this framework has been a transformative experience. Its simple and intuitive design, concepts including data binding and components, allowed me to grasp the essentials of modern JavaScript frameworks. The reactivity system in Vue, along with its powerful state management through Vuex, enabled me to handle complex data interactions smoothly and efficiently.",
       "img_url": "https://robynainsley21.github.io/images/images/Vue.js_Logo_2.svg.png"
+    },
+     {
+      "id": 6,
+      "skill": "MySQL",
+      "description": "to be added",
+      "img_url": "https://robynainsley21.github.io/images/personal-portfolio/png-clipart-mysql-mysql-removebg-preview.png"
+    },
+     {
+      "id": 7,
+      "skill": "Git",
+      "description": "to be added",
+      "img_url": "https://robynainsley21.github.io/images/personal-portfolio/git.png"
+    },
+    {
+      "id": 8,
+      "skill": "Node.js",
+      "description": "to be added",
+      "img_url": "https://robynainsley21.github.io/images/personal-portfolio/nodejs.png"
     }
   ],
   "testimonials": [
