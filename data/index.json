@@ -1,7 +1,7 @@
 {
   "jobTitle": [
     {
-      "img_url": "https://robynainsley21.github.io/images/images/headshot.JPG",
+      "img_url": "",
       "title": "Aspiring Software Engineer"
     }
   ],
@@ -27,15 +27,52 @@
       "img_url": "https://robynainsley21.github.io/images/personal-portfolio/tuscany-secondary.jpg"
     },
     {
+      "id": 2,
+      "edu_name": "CodeSpace",
+      "date": "February 2023 - August 2023",
+      "details": [
+        "Graduated Software Developer"
+      ],
+      "site": "https://www.codespace.co.za/",
+      "img_url": ""
+    },
+    {
       "id": 3,
       "edu_name": "Life Choices Academy",
       "date": "April 2024 - Present",
       "details": [
-        "Software Developer"
+        "Graduated Fullstack Developer"
       ],
       "site": "https://lifechoices.co.za/life-choices-academy/",
       "img_url": "https://robynainsley21.github.io/images/personal-portfolio/life-choices.jpg"
     }
+    }
+  ],
+  "achievements": [
+    {
+      "id" : 1,
+      "title": "Deputy Head Girl",
+      "location": "Tuscany Glen Secondary",
+      "details": "Assisted in student tutoring and disciplining.",
+      "date": "Year 2014",
+      "img_url": ""
+    },
+    {
+      "id" : 2,
+      "title": "JavaScript Certificate",
+      "location": "Life Choices Academy",
+      "details": "Achieved 90% in Ecommerce project.",
+      "date": "Year 2024",
+      "img_url": ""
+    },
+    {
+      "id" : 3,
+      "title": "Vue.js Certificate",
+      "location": "Life Choices Academy",
+      "details": "Achieved 93% in Vue.js Portfolio project.",
+      "date": "Year 2024",
+      "img_url": ""
+    },
   ],
   "experiences": [
     {
@@ -96,6 +133,26 @@
       "img_url": "https://robynainsley21.github.io/images/personal-portfolio/nodejs.png"
     }
   ],
+  "interests": [
+    {
+      "id": 1,
+      "name": "",
+      "description": "",
+      "img_url": "",
+    },
+    {
+      "id": 2,
+      "name": "",
+      "description": "",
+      "img_url": "",
+    },
+    {
+      "id": 3,
+      "name": "",
+      "description": "",
+      "img_url": "",
+    },
+  ],
   "testimonials": [
     {
       "name": "Nicki Abels",
@@ -131,14 +188,6 @@
   "projects": [
     {
       "id": 1,
-      "img_url": "https://robynainsley21.github.io/images/personal-portfolio/calculator-img.png",
-      "description": "A functioning calculator that calculates with the use of all operators.",
-      "projectName": "Calculator",
-      "github": "https://github.com/robynainsley21/calculator.git",
-      "hosted_link": "https://calculator-ebon-five.vercel.app/"
-    },
-    {
-      "id": 2,
       "img_url": "https://robynainsley21.github.io/images/vue-portfolio-images/hulu-img.png",
       "description": "A visual imitation of the original Hulu website.",
       "projectName": "Hulu Duplicate",
@@ -146,7 +195,7 @@
       "hosted_link": "https://hulu-app-livid.vercel.app/"
     },
     {
-      "id": 3,
+      "id": 2,
       "img_url": "https://robynainsley21.github.io/images/vue-portfolio-images/podify.png",
       "description": "A podcast application built with React + Vite, displaying shows from an API and making use of a sample audio.",
       "projectName": "Podify Podcast App",
@@ -154,7 +203,7 @@
       "hosted_link": "https://podcast-app-cyan.vercel.app/"
     },
     {
-      "id": 4,
+      "id": 3,
       "img_url": "https://robynainsley21.github.io/images/vue-portfolio-images/book-connect.png",
       "description": "This website displays a range of books through which users may search a title or author. Books can be clicked to view more information.",
       "projectName": "Book Connect",
@@ -162,7 +211,7 @@
       "hosted_link": "https://book-connect-react.vercel.app/"
     },
     {
-      "id": 5,
+      "id": 4,
       "img_url": "https://robynainsley21.github.io/images/vue-portfolio-images/ecommerce.png",
       "description": "One of my biggest JavaScript projects, this e-commerce website includes search function of a product, adding and removing it from a shopping cart, and removing the product's existence as an administrator.",
       "projectName": "beaute Ecommerce",
@@ -170,7 +219,7 @@
       "hosted_link": "https://ecommerce-final-ten.vercel.app/"
     },
     {
-      "id": 6,
+      "id": 5,
       "img_url": "https://robynainsley21.github.io/images/personal-portfolio/church-img.png",
       "description": "Built with React + Vite, this website has a basic design with replaceable text.",
       "projectName": "Church Website",
