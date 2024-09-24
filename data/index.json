@@ -132,26 +132,6 @@
       "img_url": "https://robynainsley21.github.io/images/personal-portfolio/nodejs.png"
     }
   ],
-  "interests": [
-    {
-      "id": 1,
-      "name": "",
-      "description": "",
-      "img_url": "",
-    },
-    {
-      "id": 2,
-      "name": "",
-      "description": "",
-      "img_url": "",
-    },
-    {
-      "id": 3,
-      "name": "",
-      "description": "",
-      "img_url": "",
-    }
-  ],
   "testimonials": [
     {
       "name": "Nicki Abels",
