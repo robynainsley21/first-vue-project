@@ -183,6 +183,7 @@
     {
       "id": 1,
       "img_url": "https://robynainsley21.github.io/images/vue-portfolio-images/hulu-img.png",
+      "language_img": "https://robynainsley21.github.io/images/images/css.png",
       "description": "A visual imitation of the original Hulu website.",
       "projectName": "Hulu Duplicate",
       "github": "https://github.com/robynainsley21/huluApp.git",
@@ -191,6 +192,7 @@
     {
       "id": 2,
       "img_url": "https://robynainsley21.github.io/images/vue-portfolio-images/podify.png",
+      "language_img": "https://robynainsley21.github.io/images/images/React-icon.svg.png",
       "description": "A podcast application built with React + Vite, displaying shows from an API and making use of a sample audio.",
       "projectName": "Podify Podcast App",
       "github": "https://github.com/robynainsley21/PodcastApp.git",
@@ -199,6 +201,7 @@
     {
       "id": 3,
       "img_url": "https://robynainsley21.github.io/images/vue-portfolio-images/book-connect.png",
+      "language_img": "https://robynainsley21.github.io/images/images/React-icon.svg.png",
       "description": "This website displays a range of books through which users may search a title or author. Books can be clicked to view more information.",
       "projectName": "Book Connect",
       "github": "https://github.com/robynainsley21/book-connect-react.git",
@@ -207,6 +210,7 @@
     {
       "id": 4,
       "img_url": "https://robynainsley21.github.io/images/vue-portfolio-images/ecommerce.png",
+      "language_img": "https://robynainsley21.github.io/images/images/javascript.png",
       "description": "One of my biggest JavaScript projects, this e-commerce website includes search function of a product, adding and removing it from a shopping cart, and removing the product's existence as an administrator.",
       "projectName": "beaute Ecommerce",
       "github": "https://github.com/robynainsley21/ecommerce-final.git",
@@ -215,6 +219,7 @@
     {
       "id": 5,
       "img_url": "https://robynainsley21.github.io/images/personal-portfolio/church-img.png",
+      "language_img": "https://robynainsley21.github.io/images/images/React-icon.svg.png",
       "description": "Built with React + Vite, this website has a basic design with replaceable text.",
       "projectName": "Church Website",
       "github": "https://github.com/robynainsley21/church-project.git",
