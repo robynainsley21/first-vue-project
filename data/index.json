@@ -15,9 +15,20 @@
       "location":"Cape Town, 7100"
     },
     {
-      "reading": ["Self-Help", "Thriller", "Mystery"],
-      "youtube": ["Gaming", "Vlogs", "Coding tutorials", "Trending news"],
-      "video-editing": "K-pop shorts for Tik Tok"
+      "interests":[
+              {
+                "title": "Reading",
+                "details": ["Self-Help", "Thriller", "Mystery"]
+              },
+              {
+                 "title": "YouTube",
+                 "details": ["Gaming", "Vlogs", "Coding tutorials", "Trending news"]
+              },
+              {
+                "title": "Video editing",
+                "details": ["K-pop shorts for Tik Tok"]
+              }
+      ]
     }
   ],
   "education": [
