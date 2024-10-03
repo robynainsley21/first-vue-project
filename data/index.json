@@ -69,16 +69,6 @@
       ],
       "site": "https://lifechoices.co.za/life-choices-academy/",
       "img_url": "https://robynainsley21.github.io/images/personal-portfolio/life-choices.jpg"
-    },
-        {
-      "id": 4,
-      "edu_name": "Life Choices Academy",
-      "date": "September 2024 - Present",
-      "details": [
-        "Software Engineer Intern"
-      ],
-      "site": "https://lifechoices.co.za/life-choices-academy/",
-      "img_url": "https://robynainsley21.github.io/images/personal-portfolio/life-choices.jpg"
     }
   ],
   "achievements": [
@@ -114,6 +104,16 @@
       "company": "Poppies Home Bakes",
       "duration": "August 2022 - April 2023",
       "img_url": "https://robynainsley21.github.io/images/personal-portfolio/poppies-img.jpg"
+    },
+        {
+      "id": 4,
+      "edu_name": "Life Choices Academy",
+      "date": "September 2024 - Present",
+      "details": [
+        "Intern"
+      ],
+      "site": "https://lifechoices.co.za/life-choices-academy/",
+      "img_url": "https://robynainsley21.github.io/images/personal-portfolio/life-choices.jpg"
     }
   ],
   "skills": [
