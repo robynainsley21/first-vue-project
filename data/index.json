@@ -73,30 +73,45 @@
 
   ],
   "achievements": [
-    {
+        {
       "id" : 1,
-      "title": "Deputy Head Girl",
-      "location": "Tuscany Glen Secondary",
-      "details": "Assisted in student tutoring and disciplining.",
-      "date": "Year 2014",
-      "img_url": "https://robynainsley21.github.io/images/"
-    },
-    {
-      "id" : 2,
-      "title": "JavaScript Certificate",
+      "title": "Full stack Certificate",
       "location": "Life Choices Academy",
-      "details": "Achieved 90% in Ecommerce project.",
-      "date": "Year 2024",
-      "img_url": "https://robynainsley21.github.io/images/"
+      "details": "Graduated Full-stack Developer",
+      "date": "September 2024",
+      "site": "https://robynainsley21.github.io/images/"
     },
-    {
-      "id" : 3,
+        {
+      "id" : 2,
       "title": "Vue.js Certificate",
       "location": "Life Choices Academy",
       "details": "Achieved 93% in Vue.js Portfolio project.",
       "date": "Year 2024",
-      "img_url": "https://robynainsley21.github.io/images/"
-    }
+      "site": "https://robynainsley21.github.io/images/"
+    },
+        {
+      "id" : 3,
+      "title": "JavaScript Certificate",
+      "location": "Life Choices Academy",
+      "details": "Achieved 90% in E-commerce project.",
+      "date": "Year 2024",
+      "site": "https://robynainsley21.github.io/images/"
+    },
+    {
+      "id" : 4,
+      "title": "Software Development Certificate",
+      "location": "CodeSpace Academy",
+      "details": "Graduated Software Developer",
+      "date": "August 2023",
+      "site": "https://drive.google.com/file/d/16JGZv8fYp1kQCkZWOkF52AdpP2hqIYfg/view?usp=sharing"
+    },
+    {
+      "id" : 5,
+      "title": "Deputy Head Girl",
+      "location": "Tuscany Glen Secondary",
+      "details": "Assisted in student tutoring and disciplining.",
+      "date": "Year 2014"
+    },
   ],
   "experiences": [
        {
