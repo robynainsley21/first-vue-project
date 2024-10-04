@@ -40,15 +40,15 @@
     }
   ],
   "education": [
-    {
+        {
       "id": 1,
-      "edu_name": "Tuscany Glen Secondary High",
-      "date": "2014 - 2018",
+      "edu_name": "Life Choices Academy",
+      "date": "April 2024 - September 2024",
       "details": [
-        "Deputy Head Girl, Second-best Achiever"
+        "Graduated Fullstack Developer"
       ],
-      "site": "https://www.facebook.com/tuscanyglenhighschool/",
-      "img_url": "https://robynainsley21.github.io/images/personal-portfolio/tuscany-secondary.jpg"
+      "site": "https://lifechoices.co.za/life-choices-academy/",
+      "img_url": "https://robynainsley21.github.io/images/personal-portfolio/life-choices.jpg"
     },
     {
       "id": 2,
@@ -60,16 +60,17 @@
       "site": "https://www.codespace.co.za/",
       "img_url": "https://robynainsley21.github.io/images/personal-portfolio/codespace.jpeg"
     },
-    {
+        {
       "id": 3,
-      "edu_name": "Life Choices Academy",
-      "date": "April 2024 - September 2024",
+      "edu_name": "Tuscany Glen Secondary High",
+      "date": "2014 - 2018",
       "details": [
-        "Graduated Fullstack Developer"
+        "Deputy Head Girl, Second-best Achiever"
       ],
-      "site": "https://lifechoices.co.za/life-choices-academy/",
-      "img_url": "https://robynainsley21.github.io/images/personal-portfolio/life-choices.jpg"
+      "site": "https://www.facebook.com/tuscanyglenhighschool/",
+      "img_url": "https://robynainsley21.github.io/images/personal-portfolio/tuscany-secondary.jpg"
     }
+
   ],
   "achievements": [
     {
@@ -98,22 +99,22 @@
     }
   ],
   "experiences": [
-    {
+       {
       "id": 1,
-      "title": "Sales Assistant",
-      "company": "Poppies Home Bakes",
-      "duration": "August 2022 - April 2023",
-      "img_url": "https://robynainsley21.github.io/images/personal-portfolio/poppies-img.jpg",
-      "site": "https://www.facebook.com/PoppiesLangverwacht/" 
-    },
-        {
-      "id": 2,
       "company": "Life Choices Academy",
       "duration": "September 2024 - Present",
       "title": "Intern",
       "site": "https://lifechoices.co.za/life-choices-academy/",
       "img_url": "https://robynainsley21.github.io/images/personal-portfolio/life-choices.jpg"
-    }
+    },
+    {
+      "id": 2,
+      "title": "Sales Assistant",
+      "company": "Poppies Home Bakes",
+      "duration": "August 2022 - April 2023",
+      "img_url": "https://robynainsley21.github.io/images/personal-portfolio/poppies-img.jpg",
+      "site": "https://www.facebook.com/PoppiesLangverwacht/" 
+    }     
   ],
   "skills": [
     {
