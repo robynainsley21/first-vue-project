@@ -103,15 +103,14 @@
       "title": "Sales Assistant",
       "company": "Poppies Home Bakes",
       "duration": "August 2022 - April 2023",
-      "img_url": "https://robynainsley21.github.io/images/personal-portfolio/poppies-img.jpg"
+      "img_url": "https://robynainsley21.github.io/images/personal-portfolio/poppies-img.jpg",
+      "site": "https://www.facebook.com/PoppiesLangverwacht/" 
     },
         {
-      "id": 4,
-      "edu_name": "Life Choices Academy",
-      "date": "September 2024 - Present",
-      "details": [
-        "Intern"
-      ],
+      "id": 2,
+      "company": "Life Choices Academy",
+      "duration": "September 2024 - Present",
+      "title": "Intern",
       "site": "https://lifechoices.co.za/life-choices-academy/",
       "img_url": "https://robynainsley21.github.io/images/personal-portfolio/life-choices.jpg"
     }
