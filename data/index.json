@@ -12,41 +12,41 @@
       "text2": "Throughout my programming learning journey, I have become well-acquainted with HTML5, CSS3, JavaScript, React.js and Vue.js. I am always eager to expand my knowledge and stay updated with the latest advancements in these technologies, ensuring continuous growth and improvement in my skills.",
       "github": "https://github.com/robynainsley21",
       "linkedin": "https://www.linkedin.com/in/robyn-carnow-2b0762267/",
-      "location":"Cape Town, 7100"
+      "location": "Cape Town, 7100"
     },
     {
-      "interests":[
-              {
-                "title": "Reading",
-                "details": ["Self-Help", "Thriller", "Mystery"],
-                "img_url": "M1 2.828c.885-.37 2.154-.769 3.388-.893 1.33-.134 2.458.063 3.112.752v9.746c-.935-.53-2.12-.603-3.213-.493-1.18.12-2.37.461-3.287.811zm7.5-.141c.654-.689 1.782-.886 3.112-.752 1.234.124 2.503.523 3.388.893v9.923c-.918-.35-2.107-.692-3.287-.81-1.094-.111-2.278-.039-3.213.492zM8 1.783C7.015.936 5.587.81 4.287.94c-1.514.153-3.042.672-3.994 1.105A.5.5 0 0 0 0 2.5v11a.5.5 0 0 0 .707.455c.882-.4 2.303-.881 3.68-1.02 1.409-.142 2.59.087 3.223.877a.5.5 0 0 0 .78 0c.633-.79 1.814-1.019 3.222-.877 1.378.139 2.8.62 3.681 1.02A.5.5 0 0 0 16 13.5v-11a.5.5 0 0 0-.293-.455c-.952-.433-2.48-.952-3.994-1.105C10.413.809 8.985.936 8 1.783"
-              },
-              {
-                 "title": "YouTube",
-                 "details": ["Gaming", "Vlogs", "Coding tutorials", "Trending news"],
-                "img_url": "M8.051 1.999h.089c.822.003 4.987.033 6.11.335a2.01 2.01 0 0 1 1.415 1.42c.101.38.172.883.22 1.402l.01.104.022.26.008.104c.065.914.073 1.77.074 1.957v.075c-.001.194-.01 1.108-.082 2.06l-.008.105-.009.104c-.05.572-.124 1.14-.235 1.558a2.01 2.01 0 0 1-1.415 1.42c-1.16.312-5.569.334-6.18.335h-.142c-.309 0-1.587-.006-2.927-.052l-.17-.006-.087-.004-.171-.007-.171-.007c-1.11-.049-2.167-.128-2.654-.26a2.01 2.01 0 0 1-1.415-1.419c-.111-.417-.185-.986-.235-1.558L.09 9.82l-.008-.104A31 31 0 0 1 0 7.68v-.123c.002-.215.01-.958.064-1.778l.007-.103.003-.052.008-.104.022-.26.01-.104c.048-.519.119-1.023.22-1.402a2.01 2.01 0 0 1 1.415-1.42c.487-.13 1.544-.21 2.654-.26l.17-.007.172-.006.086-.003.171-.007A100 100 0 0 1 7.858 2zM6.4 5.209v4.818l4.157-2.408z"
-              },
-              {
-                "title": "Video editing",
-                "details": ["K-pop shorts for Tik Tok"],
-                "img_url": "M0 5a2 2 0 0 1 2-2h7.5a2 2 0 0 1 1.983 1.738l3.11-1.382A1 1 0 0 1 16 4.269v7.462a1 1 0 0 1-1.406.913l-3.111-1.382A2 2 0 0 1 9.5 13H2a2 2 0 0 1-2-2zm11.5 5.175 3.5 1.556V4.269l-3.5 1.556zM2 4a1 1 0 0 0-1 1v6a1 1 0 0 0 1 1h7.5a1 1 0 0 0 1-1V5a1 1 0 0 0-1-1z"
-              },
-                      {
-                "title": "Exploring code",
-                "details": ["There is a constant curiosity to strengthen my love for code"],
-                "img_url": "M10.478 1.647a.5.5 0 1 0-.956-.294l-4 13a.5.5 0 0 0 .956.294zM4.854 4.146a.5.5 0 0 1 0 .708L1.707 8l3.147 3.146a.5.5 0 0 1-.708.708l-3.5-3.5a.5.5 0 0 1 0-.708l3.5-3.5a.5.5 0 0 1 .708 0m6.292 0a.5.5 0 0 0 0 .708L14.293 8l-3.147 3.146a.5.5 0 0 0 .708.708l3.5-3.5a.5.5 0 0 0 0-.708l-3.5-3.5a.5.5 0 0 0-.708 0"
-              }
+      "interests": [
+        {
+          "title": "Reading",
+          "details": ["Self-Help", "Thriller", "Mystery"],
+          "img_url": "M1 2.828c.885-.37 2.154-.769 3.388-.893 1.33-.134 2.458.063 3.112.752v9.746c-.935-.53-2.12-.603-3.213-.493-1.18.12-2.37.461-3.287.811zm7.5-.141c.654-.689 1.782-.886 3.112-.752 1.234.124 2.503.523 3.388.893v9.923c-.918-.35-2.107-.692-3.287-.81-1.094-.111-2.278-.039-3.213.492zM8 1.783C7.015.936 5.587.81 4.287.94c-1.514.153-3.042.672-3.994 1.105A.5.5 0 0 0 0 2.5v11a.5.5 0 0 0 .707.455c.882-.4 2.303-.881 3.68-1.02 1.409-.142 2.59.087 3.223.877a.5.5 0 0 0 .78 0c.633-.79 1.814-1.019 3.222-.877 1.378.139 2.8.62 3.681 1.02A.5.5 0 0 0 16 13.5v-11a.5.5 0 0 0-.293-.455c-.952-.433-2.48-.952-3.994-1.105C10.413.809 8.985.936 8 1.783"
+        },
+        {
+          "title": "YouTube",
+          "details": ["Gaming", "Vlogs", "Coding tutorials", "Trending news"],
+          "img_url": "M8.051 1.999h.089c.822.003 4.987.033 6.11.335a2.01 2.01 0 0 1 1.415 1.42c.101.38.172.883.22 1.402l.01.104.022.26.008.104c.065.914.073 1.77.074 1.957v.075c-.001.194-.01 1.108-.082 2.06l-.008.105-.009.104c-.05.572-.124 1.14-.235 1.558a2.01 2.01 0 0 1-1.415 1.42c-1.16.312-5.569.334-6.18.335h-.142c-.309 0-1.587-.006-2.927-.052l-.17-.006-.087-.004-.171-.007-.171-.007c-1.11-.049-2.167-.128-2.654-.26a2.01 2.01 0 0 1-1.415-1.419c-.111-.417-.185-.986-.235-1.558L.09 9.82l-.008-.104A31 31 0 0 1 0 7.68v-.123c.002-.215.01-.958.064-1.778l.007-.103.003-.052.008-.104.022-.26.01-.104c.048-.519.119-1.023.22-1.402a2.01 2.01 0 0 1 1.415-1.42c.487-.13 1.544-.21 2.654-.26l.17-.007.172-.006.086-.003.171-.007A100 100 0 0 1 7.858 2zM6.4 5.209v4.818l4.157-2.408z"
+        },
+        {
+          "title": "Video editing",
+          "details": ["K-pop shorts for Tik Tok"],
+          "img_url": "M0 5a2 2 0 0 1 2-2h7.5a2 2 0 0 1 1.983 1.738l3.11-1.382A1 1 0 0 1 16 4.269v7.462a1 1 0 0 1-1.406.913l-3.111-1.382A2 2 0 0 1 9.5 13H2a2 2 0 0 1-2-2zm11.5 5.175 3.5 1.556V4.269l-3.5 1.556zM2 4a1 1 0 0 0-1 1v6a1 1 0 0 0 1 1h7.5a1 1 0 0 0 1-1V5a1 1 0 0 0-1-1z"
+        },
+        {
+          "title": "Exploring code",
+          "details": [
+            "There is a constant curiosity to strengthen my love for code"
+          ],
+          "img_url": "M10.478 1.647a.5.5 0 1 0-.956-.294l-4 13a.5.5 0 0 0 .956.294zM4.854 4.146a.5.5 0 0 1 0 .708L1.707 8l3.147 3.146a.5.5 0 0 1-.708.708l-3.5-3.5a.5.5 0 0 1 0-.708l3.5-3.5a.5.5 0 0 1 .708 0m6.292 0a.5.5 0 0 0 0 .708L14.293 8l-3.147 3.146a.5.5 0 0 0 .708.708l3.5-3.5a.5.5 0 0 0 0-.708l-3.5-3.5a.5.5 0 0 0-.708 0"
+        }
       ]
     }
   ],
   "education": [
-        {
+    {
       "id": 1,
       "edu_name": "Life Choices Academy",
       "date": "April 2024 - September 2024",
-      "details": [
-        "Graduated Fullstack Developer"
-      ],
+      "details": ["Graduated Fullstack Developer"],
       "site": "https://lifechoices.co.za/life-choices-academy/",
       "img_url": "https://robynainsley21.github.io/images/personal-portfolio/life-choices.jpg"
     },
@@ -54,43 +54,38 @@
       "id": 2,
       "edu_name": "CodeSpace",
       "date": "February 2023 - August 2023",
-      "details": [
-        "Graduated Software Developer"
-      ],
+      "details": ["Graduated Software Developer"],
       "site": "https://www.codespace.co.za/",
       "img_url": "https://robynainsley21.github.io/images/personal-portfolio/codespace.jpeg"
     },
-        {
+    {
       "id": 3,
       "edu_name": "Tuscany Glen Secondary High",
       "date": "2014 - 2018",
-      "details": [
-        "Deputy Head Girl, Second-best Achiever"
-      ],
+      "details": ["Deputy Head Girl, Second-best Achiever"],
       "site": "https://www.facebook.com/tuscanyglenhighschool/",
       "img_url": "https://robynainsley21.github.io/images/personal-portfolio/tuscany-secondary.jpg"
     }
-
   ],
   "achievements": [
-        {
-      "id" : 1,
+    {
+      "id": 1,
       "title": "Full stack Certificate",
       "location": "Life Choices Academy",
       "details": "Graduated Full-stack Developer",
       "date": "September 2024",
       "site": "https://robynainsley21.github.io/images/"
     },
-        {
-      "id" : 2,
+    {
+      "id": 2,
       "title": "Vue.js Certificate",
       "location": "Life Choices Academy",
       "details": "Achieved 93% in Vue.js Portfolio project.",
       "date": "Year 2024",
       "site": "https://robynainsley21.github.io/images/"
     },
-        {
-      "id" : 3,
+    {
+      "id": 3,
       "title": "JavaScript Certificate",
       "location": "Life Choices Academy",
       "details": "Achieved 90% in E-commerce project.",
@@ -98,7 +93,7 @@
       "site": "https://robynainsley21.github.io/images/"
     },
     {
-      "id" : 4,
+      "id": 4,
       "title": "Software Development Certificate",
       "location": "CodeSpace Academy",
       "details": "Graduated Software Developer",
@@ -106,7 +101,7 @@
       "site": "https://drive.google.com/file/d/16JGZv8fYp1kQCkZWOkF52AdpP2hqIYfg/view?usp=sharing"
     },
     {
-      "id" : 5,
+      "id": 5,
       "title": "Deputy Head Girl",
       "location": "Tuscany Glen Secondary",
       "details": "Assisted in student tutoring and disciplining.",
@@ -114,7 +109,7 @@
     }
   ],
   "experiences": [
-       {
+    {
       "id": 1,
       "company": "Life Choices Academy",
       "duration": "September 2024 - Present",
@@ -128,8 +123,8 @@
       "company": "Poppies Home Bakes",
       "duration": "August 2022 - April 2023",
       "img_url": "https://robynainsley21.github.io/images/personal-portfolio/poppies-img.jpg",
-      "site": "https://www.facebook.com/PoppiesLangverwacht/" 
-    }     
+      "site": "https://www.facebook.com/PoppiesLangverwacht/"
+    }
   ],
   "skills": [
     {
@@ -162,13 +157,13 @@
       "description": "As a beginner, this framework has been a transformative experience. Its simple and intuitive design, concepts including data binding and components, allowed me to grasp the essentials of modern JavaScript frameworks. The reactivity system in Vue, along with its powerful state management through Vuex, enabled me to handle complex data interactions smoothly and efficiently.",
       "img_url": "https://robynainsley21.github.io/images/images/Vue.js_Logo_2.svg.png"
     },
-     {
+    {
       "id": 6,
       "skill": "MySQL",
       "description": "to be added",
       "img_url": "https://robynainsley21.github.io/images/personal-portfolio/mysql-removebg-preview.png"
     },
-     {
+    {
       "id": 7,
       "skill": "Git",
       "description": "to be added",
@@ -181,6 +176,64 @@
       "img_url": "https://robynainsley21.github.io/images/personal-portfolio/nodejs.png"
     }
   ],
+  "certificates": [
+    {
+      "title": "Exam Prep - AWS Certified Cloud Practitioner (CLF-C02)",
+      "completed": "9 October 2024",
+      "img_url": "https://robynainsley21.github.io/images/personal-portfolio/AWS Training & Certification - Certificate of Completion.pdf"
+    },
+    {
+      "title": "Becoming a Cloud Practitioner Lab Session",
+      "completed": "9 October 2024",
+      "img_url": "https://robynainsley21.github.io/images/personal-portfolio/Lab session.pdf"
+    },
+    {
+      "title": "Becoming a Cloud Practitioner - Part 1 - AWS Cloud Basics",
+      "completed": "7 October 2024",
+      "img_url": "https://robynainsley21.github.io/images/personal-portfolio/Cloud practitioner pt1.pdf"
+    },
+    {
+      "title": "Becoming a Cloud Practitioner - Part 2 - Compute, Networking, and Account Strategies",
+      "completed": "7 October 2024",
+      "img_url": "https://robynainsley21.github.io/images/personal-portfolio/Cloud practitioner pt2.pdf"
+    },
+    {
+      "title": "Becoming a Cloud Practitioner - Part 3 - Identities, Security, and Monitoring the AWS Cloud",
+      "completed": "8 October 2024",
+      "img_url": "https://robynainsley21.github.io/images/personal-portfolio/Cloud practitioner pt3.pdf"
+    },
+    {
+      "title": "Becoming a Cloud Practitioner - Part 4 - Advanced Cloud Services",
+      "completed": "8 October 2024",
+      "img_url": "https://robynainsley21.github.io/images/personal-portfolio/Cloud practitioner pt4.pdf"
+    },
+    {
+      "title": "Computer Foundations: Part 1 – Computer & Network Hardware",
+      "completed": "1 October 2024",
+      "img_url": "https://robynainsley21.github.io/images/personal-portfolio/Computer foundations pt1.pdf"
+    },
+    {
+      "title": "Computer Foundations: Part 2 - Security",
+      "completed": "1 October 2024",
+      "img_url": "https://robynainsley21.github.io/images/personal-portfolio/Computer foundations pt2.pdf"
+    },
+    {
+      "title": "Computer Foundations: Part 3 – Storage and Databases",
+      "completed": "2 October 2024",
+      "img_url": "https://robynainsley21.github.io/images/personal-portfolio/Computer foundations pt3.pdf"
+    },
+    {
+      "title": "Computer Foundations: Part 4 - Networking",
+      "completed": "2 October 2024",
+      "img_url": "https://robynainsley21.github.io/images/personal-portfolio/Computer foundations pt4.pdf"
+    },
+    {
+      "title": "Demystifying Generative AI",
+      "completed": "30 September 2024",
+      "img_url": "https://robynainsley21.github.io/images/personal-portfolio/Demystifying Generative AI.pdf"
+    }
+  ]
+  ,
   "testimonials": [
     {
       "name": "Nicki Abels",
@@ -260,7 +313,7 @@
       "hosted_link": "https://church-project-chi.vercel.app/"
     }
   ],
-  "contact":[
+  "contact": [
     {
       "number": "071 555 3954",
       "github": "https://github.com/robynainsley21",
